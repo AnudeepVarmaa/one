@@ -41,8 +41,7 @@
 	    <pluginRepository>    
 		<id>maven1</id>
 		<name>Maven.org</name>
-		<url>http://repo1.maven.org/maven2</url>
-		 <version>2.2</version>   
+		<url>http://repo1.maven.org/maven2</url> 
 	    </pluginRepository>
 	</pluginRepositories>
 	
